@@ -8,10 +8,10 @@
 [Maulana Azad National Urdu University](https://www.manuu.edu.in) - Gachibowli, Hyderabad, INDIA _(2016 - 2020)_
 
 **Intermediate** in Science<br>
-[Kendriya Vidyalaya](https://garhara.kvs.ac.in/) - Barauni, INDIA _(2015)_
+[Kendriya Vidyalaya](https://garhara.kvs.ac.in/) - Barauni, India _(2015)_
 
 **Metriculation**<br>
-[Kendriya Vidyalaya](https://garhara.kvs.ac.in/) - Barauni, INDIA _(2013)_
+[Kendriya Vidyalaya](https://garhara.kvs.ac.in/) - Barauni, India _(2013)_
 
 
 ## 💬 Languages

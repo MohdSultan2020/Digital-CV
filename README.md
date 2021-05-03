@@ -36,8 +36,8 @@
 ## 💻 PROJECTS
 
 **Object Detection with Deep learning and OpenCv ( Duration 5 Month(s) )**
-  * **Through this model we have detected 20 class of objects with 95.6 percent accuracy.**
-  * **Skills used - CNN, Machine Learning, OpenCv**
+  * Through this model we have detected 20 class of objects with 95.6 percent accuracy.
+  * Skills used - CNN, Machine Learning, OpenCv
 
 ## 📜 CERTIFICATION COURSE
 
@@ -47,7 +47,7 @@
 
 ## 🏠 PERSONAL DETAILS
 
-**Current Location :	Begusarai , Bihar**<br>
-**HomeTown         :	Begusarai, Bihar**<br>
-**Date of birth    :	February 04, 1998**<br>
-**Gender           :	Male**
+**Current Location** :	Begusarai , Bihar <br>
+**HomeTown**         :	Begusarai, Bihar <br>
+**Date of birth**    :	February 04, 1998 <br>
+**Gender**           :	Male

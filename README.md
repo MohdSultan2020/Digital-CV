@@ -42,8 +42,8 @@
 ## 📜 CERTIFICATION COURSE
 
 **1. Ethical Hacking Workshop ( Duration 2 Day(s) )**<br>
-**2. Build a Face Recognition Application using Python as part of AI-For-India Event**<br>
-**3. The Guiness World Record Event**
+**2. [Build a Face Recognition Application using Python as part of AI-For-India Event](https://github.com/MohdSultan2020/digital-cv/blob/gh-pages/GuviCertification%20-%20Guiness%20world%20record.png)**<br>
+**3. [The Guiness World Record Event](https://github.com/MohdSultan2020/digital-cv/blob/gh-pages/GuviCertification.png)**
 
 ## 🏠 PERSONAL DETAILS
 

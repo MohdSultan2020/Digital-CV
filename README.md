@@ -4,6 +4,9 @@
 
 ## 👩🏼‍🎓 Education
 
+**Master of Technology** in Computer Science Engineering<br>
+[Maulana Azad National Urdu University](https://www.manuu.edu.in) - Gachibowli, Hyderabad, INDIA _(2020 - 2022)_
+
 **Bachelor of Technology** in Computer Science Engineering<br>
 [Maulana Azad National Urdu University](https://www.manuu.edu.in) - Gachibowli, Hyderabad, INDIA _(2016 - 2020)_
 
@@ -18,7 +21,7 @@
 
 **Python  &nbsp;&nbsp;&nbsp;   C++  &nbsp;&nbsp;  &nbsp;&nbsp; DS**<br>
 **Computer Vision &nbsp;&nbsp;&nbsp;   Linux  &nbsp;&nbsp;&nbsp;   Numpy**<br>
-**Tensorflow/keras  &nbsp;&nbsp;&nbsp;   CNN  &nbsp;   Matplotlib**<br>
+**Tensorflow/keras  &nbsp;&nbsp;&nbsp;  CNN  &nbsp;   Machine learning Algorithms**<br>
 **MySQL  &nbsp;&nbsp;&nbsp;  Sci-kit learn &nbsp;&nbsp;&nbsp;   Pandas**<br>
 **Project management &nbsp;&nbsp;  Github &nbsp;&nbsp; DevOps basics &nbsp;&nbsp; Docker** 
 <br>
@@ -36,10 +39,14 @@
 **3. Hand-gesture recognition using mediapipe/google ( 10 days )**
    * After implementation, model became capable of recognising hand-gesture and give required Output.
    * Skills used - Computer Vision, Mediapipe
+  
+**4. Deep learning model on various small datasets ( Team lead ) ( 30 days )**
+   * In this project, we built deep learning models on various small dataset and optimized its accuracy.
+   * Skills used - Exploratory data analysis, CNN, Tensorflow/keras
 
 ## 🎓 INTERNSHIP
 
-**[Artificial Intelligence Intern at IoTIoT.in ( Pune )](https://www.linkedin.com/posts/mohd-sultan-340b34132_certificate-for-internship-activity-6827847057076756480-h-Zf)** <br>
+**[Machine learning Intern at IoTIoT.in ( Pune )](https://www.linkedin.com/posts/mohd-sultan-340b34132_certificate-for-internship-activity-6827847057076756480-h-Zf)** <br>
      ( Apr 2021 - July 2021 ) - 3.5 months
 
 ## 📜 CERTIFICATION COURSE
@@ -65,4 +72,10 @@
 **Arabic**: (Read & Write)<br>
 **Maithli**: (Speak)
 <br><br>
+
+## 🏠👨‍💻 Work Preferences
+
+**Looking for**      : Full-time role/ Internship <br>
+**Location**         : Hyderabad, PAN India  <br>
+**Can start working**: Immediately
 
